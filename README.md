@@ -63,5 +63,5 @@ The goal of this assignment is to implement a secure and well-structured backend
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/assignment.git
-   cd assignment
+   git clone https://github.com/Shrzzzz/Healthcare-Backend-System.git
+   cd Healthcare-Backend-System
